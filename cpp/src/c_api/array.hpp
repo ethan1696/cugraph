@@ -15,6 +15,7 @@
  */
 #pragma once
 
+#include <vector>
 #include <cugraph_c/array.h>
 
 #include <rmm/device_buffer.hpp>

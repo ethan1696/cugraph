@@ -17,7 +17,7 @@ dependencies:
 - cuda-nvtx-dev
 - cuda-profiler-api
 - cuda-python>=12.6.2,<13.0a0
-- cuda-version=12.8
+- cuda-version=12.6
 - cudf==25.4.*,>=0.0.0a0
 - cupy>=12.0.0
 - cxx-compiler
